@@ -1,0 +1,6 @@
+Talara,10.7,Taxi, Car Rental, Busses and Airport
+Jabonillal,8.7,Local Taxi
+Milla 7,11.8,Local Taxi
+Negritos,16.2,Taxi and Busses
+Pena Negra,15,Local Taxi and Busses
+Mancora District,44.1,Taxi, Car Rental and Busses

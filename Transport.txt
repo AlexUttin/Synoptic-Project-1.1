@@ -1,0 +1,14 @@
+Talara Taxi Service,Talara,4,Taxi
+Moto Taxi,Talara,3,Taxi
+Talara Buses,Talara,1,Bus
+Aeropuerto Internacional Capitan FAP Victor Montes Arias,Talara,5,Airport
+Jorge Chavez International Airport,Lima,5,Airport
+Lobitos Taxi Service,Lobitos,2,Taxi
+Lobitos General Parking,Lobitos,2,Car
+Talara General Parking,Talara,3,Car
+Collectivo,Talara,1,Bus
+Tuk-Tuk,Talara,2,Taxi
+EPPO Mancora Bus Service,Mancora,2,Bus
+Capitan FAP Guillermo Concha Iberico International Airport,Piura,5,Airport
+Piura Bus Service,Piura,3,Bus
+Rent a Car San Jose,Talara,4,Car

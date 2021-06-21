@@ -1,0 +1,19 @@
+WAVES Surf Shop Board Rentals,5,Surfing & Windsurfing,Lobitos
+Lobitos surf spot,4.4,Surfing & Windsurfing,Lobitos
+Lobitos Surf Trips,0,Surfing & Windsurfing,Lobitos
+Centro Comunal Comercial-Lobitos,1,Shopping Centre,Lobitos
+LA Mamita,0,Restaurant,Lobitos
+Restauran Cevicheria LA ESQUINA,4.8,Takeaway,Lobitos
+Resturant Nuevo Lobitos,3.3,Restaurant,Lobitos
+Hostel Cafe Lobitos,4.2,Cafe,Lobitos
+Municipalidad Distrital de Lobitos,4,Town Hall,Lobitos
+Restaurante La Casona de Lobitos,0,Restaurant,Lobitos
+Villa El Pescador,4.2,Takeaway,Lobitos
+SABOR Peruano de CORA,4.4,Restaurant,Lobitos
+El Tranqui,4.6,Restaurant,Lobitos
+Los Muelles Restobar,0,Restaurant,Lobitos
+Iglesia antigua lobitos,0,Museum,Lobitos
+Gustitos "ARNEDA",5,Restaurant,Lobitos
+Picanteria 'Mi Lita',5,Restaurant,Lobitos
+Punta Lobitos Beach,0,Beach,Lobitos
+AKUA,5,Restaurant,Lobitos

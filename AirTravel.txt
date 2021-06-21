@@ -1,0 +1,13 @@
+London Heathrow -> Madrid-Barajas Adolfo Suarez Airport -> Jorge Chavez International Airport -> Captain FAP Victor Montes Arias International Airport,38.3,932
+London City Airport -> Luxembourg Airport -> Madrid-Barajas Adolfo Suarez Airport -> Jorge Chavez International Airport -> Captain FAP Victor Montes Arias International Airport,69.1,1025
+London Heathrow -> Amsterdam Airport -> Lima Airport, 17.5,510
+Manchester Airport -> Amsterdam Airport -> Lima Airport, 18.1,500
+Edinburgh Airport -> Amsterdam Airport -> Lima Airport, 18,526
+Bordeaux Airport -> Amsterdam Airport -> Lima Airport, 18.5,659
+Marseille Airport -> Madrid Airport -> Lima Airport,15,486
+Paris Orly Airport -> Madrid Airport -> Lima Airport,17.1,459
+Madrid Airport -> Lima Airport,12,378
+Barcelona Airport -> Amsterdam Airport -> Lima Airport, 18.7,387
+Lima Airport -> Talara Airport,2,40
+Berlin Airport -> Amsterdam Airport -> Lima Airport,16,410
+Munich Airport -> Amsterdam Airport -> Lima Airport,18,453

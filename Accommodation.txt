@@ -1,0 +1,14 @@
+La Casona de Lobitos,Lobitos,0,Hostel,4.5,17
+Hotel Navego,Lobitos,0,Small Hotel,4.5,28
+El Hueco Villas,Lobitos,0,Lodge,4.5,38
+Buena Vista Lobitos,Lobitos,0,Hostel,5,34
+Mahalo Lobitos Surf House,Lobitos,0,B&B,0,30
+Piramide Titi,Talara,10.2,Lodge,5,77
+Norte Suites Boutique,Organos,10.2,Speciality Hotel,5,199
+Hotel Frente al Mar,Organos,12.2,Small Hotel,4,45
+Oceanic Bungalows,Organos,12.2,Ranch,5,37
+Las Tortugitas Bungalows,Organos,12.5,Small Hotel,2.5,13
+Lobitos Eco Lodge,Lobitos,0,Lodge,5,0
+Aitama Hotel Y Restaurante,Lobitos,0,Hotel,4.3,0
+Taratini's Surf Point,Lobitos,0,Self-Catering Accommodation,5,0
+Las Cabanas De Neto,Lobitos,0,Hotel,4.4,0
